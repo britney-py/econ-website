@@ -1,6 +1,6 @@
 {
   "homepage": "https://britney-py.github.io/econ-project",
-  "name": "my-app",
+  "name": "econ-website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
