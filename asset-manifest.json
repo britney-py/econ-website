@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/econ-project/static/css/main.822e026b.css",
+    "main.js": "/econ-project/static/js/main.2ce9b357.js",
+    "static/js/787.28cb0dcd.chunk.js": "/econ-project/static/js/787.28cb0dcd.chunk.js",
+    "static/media/frontpage-background.png": "/econ-project/static/media/frontpage-background.193902284a2f1742e078.png",
+    "static/media/quarterly_model_one_summary.png": "/econ-project/static/media/quarterly_model_one_summary.d615defbdb8d584474b4.png",
+    "static/media/model_three_summary.png": "/econ-project/static/media/model_three_summary.a4a5ddd1ec2a098ab91d.png",
+    "static/media/original_data_vs_prediction_model_three.png": "/econ-project/static/media/original_data_vs_prediction_model_three.cda30c4ebf70b56c9787.png",
+    "static/media/model_two_summary.png": "/econ-project/static/media/model_two_summary.a47236749c373bfc9c45.png",
+    "static/media/elastic_net_regression.png": "/econ-project/static/media/elastic_net_regression.1c11ab6a5ce4371726f0.png",
+    "static/media/quarterly_data_correlation_matrix.png": "/econ-project/static/media/quarterly_data_correlation_matrix.d001a913a06e2c3ef1d9.png",
+    "static/media/original_data_vs_prediction_model_two.png": "/econ-project/static/media/original_data_vs_prediction_model_two.e09bca56fa87cc49e9d7.png",
+    "static/media/original_data_vs_prediction.png": "/econ-project/static/media/original_data_vs_prediction.2822a557056a3e9431f7.png",
+    "index.html": "/econ-project/index.html",
+    "main.822e026b.css.map": "/econ-project/static/css/main.822e026b.css.map",
+    "main.2ce9b357.js.map": "/econ-project/static/js/main.2ce9b357.js.map",
+    "787.28cb0dcd.chunk.js.map": "/econ-project/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.822e026b.css",
+    "static/js/main.2ce9b357.js"
+  ]
+}
